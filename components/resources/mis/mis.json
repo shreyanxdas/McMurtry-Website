@@ -1,8 +1,8 @@
 {
     "content":[
-    "The McMurtry Innovation Space is an interdisciplinary design space open to all Rice students. The mission of the space is to support the projects of individuals and groups on campus. All students or faculty who complete the safety quiz gain swipe access to the space. In the space we have, Hand tools, Art supplies, Sewing supplies, Electronic prototyping supplies, Computers, Projector, 3D printers, and more! Some of the equipment is locked and you must visit during a time when a member of our team can assist you. Please see the calendar and team descriptions below for more information.",
-    "To gain swipe access to the MIS, first read the following safety guidelines. Then take the safety quiz, which is provided in the guidelines.",
-    "The MIS is located in Room 107 of McMurtry College, between B stairwell and the computer lab. Email us at mcminnovationspace@gmail.com for more information on what we have in the space, room reservations, or any questions."
+    "Like to build, create, or innovate? The MIS is your place! The McMurtry Innovation Space (MIS) is an interdisciplinary design space open to all Rice students designed to support the projects of individuals and groups on campus, and it's an awesome place to go for all things creative. We offer a ton of things, including woodworking tools (with a miter saw and multiple other types of saws), 3D printing, CAD software (with 2 powerful computers), electronics, a whiteboard wall, and a projector! This is also the home base for our Arts Committee, and we have a ton of supplies to fit your artsy needs as well. Since some of the equipment is locked, you must have the General Manager unlock it for you. Please see below for more information on our technicians.",
+    "Fun fact: NO other college has anything like this! Join us to help us not only make the space cooler, but also to help host workshops and events for the Murt (and Rice) community that teach people about different aspects of engineering or art. We would love to hear your thoughts and work with your ideas to make the MIS the best space it can be!",
+    "To gain swipe access to the MIS, first read the following safety guidelines. Then take the safety quiz, which is provided in the guidelines document. All students or faculty who complete the safety quiz with a 100% will gain swipe access to the space. The MIS is located in Room 107 of McMurtry College, between the B and C stairwells. Email us at mcminnovationspace@gmail.com for more information on what we have in the space, room reservations, or any questions."
     ],
     "hours": [
         {
@@ -34,48 +34,43 @@
             "hours": "8 AM - Midnight"
         }
     ],
-    "personnel":[
+    "leadership":[
         {
-            "name":"Grant Lu",
-            "major":"Bioengineering",
-            "college":"McMurtry",
-            "email":"gwl3@rice.edu",
-            "askMeAbout":"Hand Tools, Electronic Prototyping, Power Tools, 3D Printing, Vinyl, Screen Printing, Projector, MATLAB, Soldering, Laminator, Raspberry Pi/Arduino"
-        },
-        {
-            "name":"Jeffrey Sheng",
-            "major":"Computer Science",
-            "college":"McMurtry",
-            "email":"qs4@rice.edu",
-            "askMeAbout":"Hand Tools, Power Tools, Laminator"
-        },
-        {
-            "name":"Matthew Whaley",
+            "name":"Lucas Dovalina (General Manager)",
             "major":"Mechanical Engineering",
             "college":"McMurtry",
-            "email":"mfw3@rice.edu",
-            "askMeAbout":"Hand Tools, Power Tools"
-        },
+            "email":"lbd1@rice.edu",
+            "askMeAbout":"3D Printing, Assembly, Advanced CAD (Fusion 360, SOLIDWORKS, Inventor), Arduino and Raspberry Pi, Woodworking, Welding, Soldering, Hand Tools"
+        }
+    ],
+    "personnel":[
         {
-            "name":"Michael Angino",
-            "major":"Electrical Engineering ",
+            "name":"Raj Anthony",
+            "major":"Electrical and Computer Engineering",
             "college":"McMurtry",
-            "email":"mfa7@rice.edu",
-            "askMeAbout":"Hand Tools, Adobe Suite, Adobe Illustrator, AutoCAD, Electronic Prototyping, Power Tools, 3D Printing, Vinyl, Projector, Soldering, Laminator, Raspberry Pi/Arduino"
+            "email":"rra2@rice.edu",
+            "askMeAbout":"Computer/tech repair and troubleshooting, 3D Printing, CAD, Hand Tools, Shop Tools, Microcontrollers, Soldering"
         },
         {
-            "name":"Myra Ramdenbourg",
-            "major":"Computer Science",
-            "college":"Will Rice",
-            "email":"mmr7@rice.edu",
-            "askMeAbout":"Electronic Prototyping, 3D Printing, Soldering, Raspberry Pi/Arduino"
-        },
-        {
-            "name":"Shaquille Que",
-            "major":"Computer Science, Mathematics",
+            "name":"Bri Schulstad",
+            "major":"Chemical Engineering + Earth, Environmental, and Planetary Sciences",
             "college":"McMurtry",
-            "email":"stq1@rice.edu",
-            "askMeAbout":"Adobe Suite, Projector, MATLAB, Soldering, Laminator"
+            "email":"bts8@rice.edu",
+            "askMeAbout":"CAD, 3D printing, Hand Tools"
+        },
+        {
+            "name":"Owen Krum",
+            "major":"Mechanical Engineering",
+            "college":"McMurtry",
+            "email":"otk1@rice.edu",
+            "askMeAbout":"Woodworking, Wood species, Vintage hand tools, Tool Restoration, Carpentry, Cabinet Making, CAD, Laser Cutting, Wood Finishing"
+        },
+        {
+            "name":"Tristen Flores",
+            "major":"Mechanical Engineering, Minor in CAAM",
+            "college":"McMurtry",
+            "email":"trf5@rice.edu",
+            "askMeAbout":"CAD, Arduino, 3D Printing, Laser Cutting, Woodworking, Hand Tools, Power Tools"
         }
     ]
 }
